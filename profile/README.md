@@ -1,0 +1,1 @@
+This organisations contains tools for using git as a german [GoBD](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/2019-11-28-GoBD.html) conformnat Document Archive.
